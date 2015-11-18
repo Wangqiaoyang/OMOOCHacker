@@ -44,7 +44,7 @@ print list_function(n)
 |---|---|---|---|
 |A|B|C|D|
 
-![Tree](Downloads/Tree.jpg)
+![Tree](http://7xoe8f.com1.z0.glb.clouddn.com/Tree.jpg)
 ___
 
 # 中文写作风格
